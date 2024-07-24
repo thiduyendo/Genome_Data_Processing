@@ -1,6 +1,9 @@
 # Genome_Data_Processing
 ## Project Overview
 The Genome Data Processing project is designed to analyze genome data to understand the characteristics of the pan-genome. Specifically, this project aims to determine whether the pan-genome is open or closed by evaluating different genomic metrics. The number of Pan genes, accessory genes, and core genes are calculated by incrementally adding strains into the calculation. The process is iterated 10 times, and average counts are used for analysis.
+
+![Figure 3](https://github.com/user-attachments/assets/c8d2fcf2-293f-4f06-8e2d-72586a11f917)
+
 ## Features
 - Pan Genes: Genes that are present in at least one genome.
 - Core Genes: Genes that are present in all genomes.
