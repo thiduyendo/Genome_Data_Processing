@@ -16,5 +16,6 @@ pip install pandas numpy h5py
 ```
   python pan_genome_count.py --input_file /path/to/your/input_file.h5 --output_file /path/to/your/output_file.csv
 ```
+please use pre_abs.h5 as input_file.h5 and genome_count.csv for the output file
 ## Contact
 For any questions or issues, please contact dtduyen1990@gmail.com 
