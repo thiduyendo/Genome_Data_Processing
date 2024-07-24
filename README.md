@@ -33,7 +33,7 @@ The R script visualization.R reads the genome_data.csv file and generates a plot
 #### Running the R Script
 Execute the visualization.R using your R environment or RStudio. Ensure the file paths in the read.csv and ggsave functions are correctly set to match your directory structure.
 ```
-Rscript visualization.R --input_file /path/to/your/input_file/genome_data.csv --output_file /path/to/your/output_file//genome_plot_test.png
+Rscript visualization.R --input_file /path/to/your/input_file/genome_data.csv --output_file /path/to/your/output_file/genome_plot_test.png
 ```
 ## Contact
 For any questions or issues, please contact dtduyen1990@gmail.com 
